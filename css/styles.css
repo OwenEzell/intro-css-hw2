@@ -134,6 +134,7 @@ p {
 
 a {
   color: #000000;
+  padding: 2px;
 }
 
 a:hover {
